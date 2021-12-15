@@ -1,0 +1,6 @@
+C:\Users\Illya\source\repos\contacts_db\contacts_db\bin\Debug\contacts_db.dacpac
+C:\Users\Illya\source\repos\contacts_db\contacts_db\bin\Debug\contacts_db.dll
+C:\Users\Illya\source\repos\contacts_db\contacts_db\bin\Debug\contacts_db.pdb
+C:\Users\Illya\source\repos\contacts_db\contacts_db\obj\Debug\contacts_db.sqlprojAssemblyReference.cache
+C:\Users\Illya\source\repos\contacts_db\contacts_db\obj\Debug\contacts_db.dll
+C:\Users\Illya\source\repos\contacts_db\contacts_db\obj\Debug\contacts_db.pdb
